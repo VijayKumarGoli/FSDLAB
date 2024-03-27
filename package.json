@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "file-saver": "^2.0.5",
+    "javascript": "^1.0.0",
+    "json": "^11.0.0",
+    "mongoose": "^8.2.3",
+    "nodejs": "^0.0.0"
+  }
+}
